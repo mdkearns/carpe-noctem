@@ -1,2 +1,3 @@
-# django-website-template
-A template for creating websites using the Python Django framework.
+# Carpe Noctem
+
+A platform to learn/share important statistical concepts in layman's terms.
